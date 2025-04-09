@@ -43,3 +43,4 @@ S6 --b--> S7
 S7 --ε--> S4
 S0 --ε--> S5
 ## Setup
+https://github.com/Nagham242/Regex-to-NFA-conversion.git
